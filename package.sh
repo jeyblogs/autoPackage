@@ -11,7 +11,7 @@
 is_workspace="false"
 
 # .xcworkspace的名字，如果is_workspace为true，则必须填。否则可不填
-workspace_name=""xxx
+workspace_name=""
 
 # .xcodeproj的名字，如果is_workspace为false，则必须填。否则可不填
 project_name="xxxx"
